@@ -1,2 +1,2 @@
-This file is test the branching in GIT
+This file is to test the branching in GIT. 
 Hope you understand !!
