@@ -1,0 +1,6 @@
+echo "==========="
+echo `date`
+echo "==========="
+echo `hostname`
+echo "=========="
+echo `df -h`
